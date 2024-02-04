@@ -1,0 +1,2 @@
+ssid = "try"
+password = None
