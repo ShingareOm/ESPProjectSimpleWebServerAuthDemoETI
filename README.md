@@ -1,5 +1,7 @@
 # ESP32 Web Server with MicroPython
 
+![Project Image](image.jpg)
+
 ## Overview
 
 This project demonstrates the creation of a simple web server using the ESP32 microcontroller and MicroPython. The web server allows users to remotely control an LED connected to the ESP32 through a web interface.
